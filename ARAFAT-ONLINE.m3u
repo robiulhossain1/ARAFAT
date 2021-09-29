@@ -51,31 +51,49 @@ https://rebrand.ly/JB/BoishakhiTV
 https://rebrand.ly/JB/Channel9HD
 #EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="" group-title="Bangla Channel",Gazi TV
 https://rebrand.ly/JB/GaziTVHD
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="" group-title="Hindi Channel",Zee Cinema HD
+https://rebrand.ly/zee5/zeecinemahd
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" tvg-logo="" group-title="Hindi Channel",Zee Cinema
 https://rebrand.ly/zee5/zeecinemaSD
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="" group-title="Hindi Channel",Zee Cinema HD Z5
-https://rebrand.ly/zee5/zeecinemahd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Music Channel",Sangeet Bangla
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Channel",B4U Kadak
+https://rebrand.ly/movie/B4U-Kadak
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Hindi Channel",Bflix Movies
+https://rebrand.ly/movie/Bflix-Movies
+#EXTINF:-1 tvg-id="" tvg-name="Sangeet Bangla" tvg-logo="" group-title="Music Channel",Sangeet Bangla
 https://rebrand.ly/music/sangeetbangla
 #EXTINF:-1 tvg-id="" tvg-name="Mastiii" tvg-logo="" group-title="Music Channel",Mastiii
 https://rebrand.ly/music/mastiii
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="" group-title="Kolkata Channel",Zee Bangla HD Z5
-https://rebrand.ly/zee5/zeebanglahd
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="" group-title="Kolkata Channel",Zee Bangla Cinema Z5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kolkata Channel",Star Jalsha Movies HD
+https://rebrand.ly/kolkata/Jalsha-Movies
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla Cinema" tvg-logo="" group-title="Kolkata Channel",Zee Bangla Cinema
 https://rebrand.ly/zee5/zeebanglacinema
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="" group-title="Zee5 Premium",Zee Cafe HD
-https://rebrand.ly/zee5/zeecafehd
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla HD" tvg-logo="" group-title="Kolkata Channel",Zee Bangla HD
+https://rebrand.ly/zee5/zeebanglahd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Kolkata Channel",Colors Bangla HD
+https://rebrand.ly/kolkata/Colors-Bangla-HD
 #EXTINF:-1 tvg-id="" tvg-name="&Prive HD" tvg-logo="" group-title="Zee5 Premium",&Prive HD
 https://rebrand.ly/zee5/andprivehd
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="" group-title="Zee5 Premium",Zee Cafe HD
+https://rebrand.ly/zee5/zeecafehd
 #EXTINF:-1 tvg-id="" tvg-name="& Flix HD" tvg-logo="" group-title="Zee5 Premium",& Flix HD
 https://rebrand.ly/zee5/andflixhd
 #EXTINF:-1 tvg-id="" tvg-name="Zee Cinema HD" tvg-logo="" group-title="Zee5 Premium",Zee Cinema HD
 https://rebrand.ly/zee5/zeecinemahd
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Zee5 Premium",Zee 24 Ghanta
+#EXTINF:-1 tvg-id="" tvg-name="Zee 24 Ghanta" tvg-logo="" group-title="Zee5 Premium",Zee 24 Ghanta
 https://rebrand.ly/zee5/zee-24-ghanta
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Zee5 Premium",&Pictures
+https://rebrand.ly/zee5/andpicturesSD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Zee5 Premium",Zee TV HD
+https://rebrand.ly/zee5/zeetvhd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Zee5 Premium",&Pictures HD
+https://rebrand.ly/zee5/andpictureshd
 #EXTINF:-1 tvg-id="" tvg-name="Live Sports 1" tvg-logo="" group-title="Sports",Live Sports 1
 https://dthiptv.ml/hls/live-sports.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live Sports 2" tvg-logo="" group-title="Sports",Live Sports 2
 https://dthiptv.ml/hls/live-sports2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Live Sports 3" tvg-logo="" group-title="Sports",Live Sports 3
 https://dthiptv.ml/livesports3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",Sony Six HD
+https://rebrand.ly/sports/Sony-Six-HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Sports",PTV Sports
+https://rebrand.ly/sports/PTV-Sports
