@@ -59,22 +59,24 @@ https://rebrand.ly/zee5/zeecinemahd
 https://rebrand.ly/movie/B4U-Kadak
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bflix Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430" group-title="Hindi Channel",Bflix Movies
 https://rebrand.ly/movie/Bflix-Movies
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png" group-title="Hindi Channel",Sony Pal
-https://rebrand.ly/hindi/Sony-Pal
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pal" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png" group-title="Hindi Channel",Sony Pal
+https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png" group-title="Hindi Channel",Sony Pal
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Sangeet Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="Music Channel",Sangeet Bangla
 https://rebrand.ly/music/sangeetbangla
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Mastiii" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Music Channel",Mastiii
 https://rebrand.ly/music/mastiii
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Star Jalsha Movies HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Kolkata Channel",Star Jalsha Movies HD
-https://rebrand.ly/kolkata/Jalsha-Movies
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Zee Bangla Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png" group-title="Kolkata Channel",Zee Bangla Cinema
 https://rebrand.ly/zee5/zeebanglacinema
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Star Jalsha Movies HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Kolkata Channel",Star Jalsha Movies HD
+https://rebrand.ly/kolkata/Jalsha-Movies
 #EXTINF:-1 tvg-id="" tvg-name="Star Jalsha HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Star_Jalsha_HD_2019.png/revision/latest/scale-to-width-down/250?cb=20210520141335" group-title="Kolkata Channel",Star Jalsha HD
 https://rebrand.ly/kolkata/Star-JalshaHD
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Zee Bangla HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_770/PORTRAIT/USKY2MD6.png" group-title="Kolkata Channel",Zee Bangla HD
 https://rebrand.ly/zee5/zeebanglahd
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Colors Bangla HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Kolkata Channel",Colors Bangla HD
 https://rebrand.ly/kolkata/Colors-Bangla-HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://download.logo.wine/logo/Sony_Aath/Sony_Aath-Logo.wine.png" group-title="Kolkata Channel",Sony Aath
+https://rebrand.ly/kolkata/Sony-Aath
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="&Prive HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg/revision/latest?cb=20200430075830" group-title="Zee5 Premium",&Prive HD
 https://rebrand.ly/zee5/andprivehd
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Zee Cafe HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Cafe-HD.png" group-title="Zee5 Premium",Zee Cafe HD
@@ -101,11 +103,11 @@ https://dthiptv.ml/livesports3.m3u8
 https://rebrand.ly/sports/Sony-Six-HD
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
 https://rebrand.ly/sports/PTV-Sports
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Sports",Star Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1 HD" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Sports",Star Sports 1 HD
 https://rebrand.ly/sports/Star-Sports-1-HD
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2 HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7437/567437-h" group-title="Sports",Star Sports Select 2 HD
 https://rebrand.ly/sports/Star-Sports-Select-2-HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Cartoon Channel",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Cartoon Channel",Cartoon Network
 https://rebrand.ly/kids/CN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Cartoon Channel",Hungama
+#EXTINF:-1 tvg-id="" tvg-name="Hungama" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Cartoon Channel",Hungama
 https://rebrand.ly/kids/hungama
