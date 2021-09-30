@@ -51,14 +51,16 @@ https://rebrand.ly/JB/BoishakhiTV
 https://rebrand.ly/JB/Channel9HD
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Gazi TV" tvg-logo="http://dds.oncast.me/img/logo/gazitv.jpg" group-title="Bangla Channel",Gazi TV
 https://rebrand.ly/JB/GaziTVHD
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Zee Cinema HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Hindi Channel",Zee Cinema HD
-https://rebrand.ly/zee5/zeecinemahd
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Zee Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Hindi Channel",Zee Cinema
 https://rebrand.ly/zee5/zeecinemaSD
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="Zee Cinema HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Hindi Channel",Zee Cinema HD
+https://rebrand.ly/zee5/zeecinemahd
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="B4U Kadak" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Hindi Channel",B4U Kadak
 https://rebrand.ly/movie/B4U-Kadak
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Bflix Movies" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Bflix_Movies.jpeg/revision/latest?cb=20191222183430" group-title="Hindi Channel",Bflix Movies
 https://rebrand.ly/movie/Bflix-Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://res.cloudinary.com/Sony-liv/image/fetch/c_fill,e_brightness:10,f_auto,fl_lossy,q_auto:low/https://origin-staticv2.sonyliv.com/masthead_logo/4867313347001.png" group-title="Hindi Channel",Sony Pal
+https://rebrand.ly/hindi/Sony-Pal
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Sangeet Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png" group-title="Music Channel",Sangeet Bangla
 https://rebrand.ly/music/sangeetbangla
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Mastiii" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Music Channel",Mastiii
@@ -99,5 +101,11 @@ https://dthiptv.ml/livesports3.m3u8
 https://rebrand.ly/sports/Sony-Six-HD
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
 https://rebrand.ly/sports/PTV-Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://toppng.com/uploads/preview/star-sports-hd1-star-sports-2-11563260393mf9fciusph.png" group-title="Sports",Star Sports 1 HD
+https://rebrand.ly/sports/Star-Sports-1-HD
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2 HD" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7437/567437-h" group-title="Sports",Star Sports Select 2 HD
 https://rebrand.ly/sports/Star-Sports-Select-2-HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Cartoon Channel",Cartoon Network
+https://rebrand.ly/kids/CN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png" group-title="Cartoon Channel",Hungama
+https://rebrand.ly/kids/hungama
