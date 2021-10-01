@@ -75,12 +75,14 @@ https://rebrand.ly/kolkata/Star-JalshaHD
 https://rebrand.ly/zee5/zeebanglahd
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Colors Bangla HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Kolkata Channel",Colors Bangla HD
 https://rebrand.ly/kolkata/Colors-Bangla-HD
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://download.logo.wine/logo/Sony_Aath/Sony_Aath-Logo.wine.png" group-title="Kolkata Channel",Sony Aath
+#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="https://download.logo.wine/logo/Sony_Aath/Sony_Aath-Logo.wine.png" group-title="Kolkata Channel",Sony Aath
 https://rebrand.ly/kolkata/Sony-Aath
-#EXTINF:-1 tvg-id="EPG N/A" tvg-name="&Prive HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg/revision/latest?cb=20200430075830" group-title="Zee5 Premium",&Prive HD
-https://rebrand.ly/zee5/andprivehd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.rdcablenet.com/wp-content/uploads/2019/01/And_TV_HD.png" group-title="Zee5 Premium",& TV HD
+https://rebrand.ly/zee5/andtvHD
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Zee Cafe HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/Zee-Cafe-HD.png" group-title="Zee5 Premium",Zee Cafe HD
 https://rebrand.ly/zee5/zeecafehd
+#EXTINF:-1 tvg-id="EPG N/A" tvg-name="&Prive HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/%26priv%C3%A9_HD.svg/revision/latest?cb=20200430075830" group-title="Zee5 Premium",&Prive HD
+https://rebrand.ly/zee5/andprivehd
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="& Flix HD" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/flix-280-200.png" group-title="Zee5 Premium",& Flix HD
 https://rebrand.ly/zee5/andflixhd
 #EXTINF:-1 tvg-id="EPG N/A" tvg-name="Zee Cinema HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Zee5 Premium",Zee Cinema HD
